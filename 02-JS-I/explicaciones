@@ -1,0 +1,4 @@
+una variable es una forma de almacenar algo en la compu que vas a necesitar usar mas tarde, puede ser un numero, letra o palabras.
+los strings son textos entre comillas que vayas a usar en el código.
+las funciones, son como las variables, pero cerradas una, una vez que comenzas y nombras una nunca mas podras cambiarle el nombre, dentro de ellas se pueden hacer didstontas cosas, por ejemplo:
+returns (codigos que te devuelven un resultado), tambien estan las funciones con "if" que estas te dan como resultado dos opciones distintas las cuales pueden ser "true" o "false" o cualquier string que se te ocurra.
